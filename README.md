@@ -1,5 +1,9 @@
 # Inter_3
 This project implements Simple Linear Regression and Multiple Linear Regression using a housing price dataset. The goal is to understand model building, evaluation, and visualization using Scikit-Learn.
+
+For DataSet : https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+
+
 1. Import & preprocess dataset
 
   Load CSV using Pandas
